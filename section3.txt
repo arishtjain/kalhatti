@@ -1,0 +1,16 @@
+Problem 1:
+Blockchain works in a decentralised way. The blockchain gives power to end users rather than a single centralised authority in a democratised way.
+
+Problem 2:
+Blockchain serves a foundation for decentralised apps. The trust is handled in a very elegant way with the help of different consensus in different chains. It has an enormous applications. Particularly, the way we can transfer funds from one place to another without a centralised authority and in a seamless way got me fascinated.
+
+Problem 3:
+The most pressing challenge is the resources current public major blockchains required to run, which require enormous electricity consumption and storage capacities which are storing redundant data.
+The close second comes to the adoption of new chain by large number of people to avoid 51% attack.
+
+Problem 4:
+PoW has an enormous disadvantage to it that this mechanism of consensus take up a lot of resources such as electricity and computational power.
+
+PoS also has a disadvantage as it makes large entities more powerful in concluding on a consensus.
+
+The efficient way will be to use both these techniques simultaneously as proposed in Ethereum to lower the cons of each mechanism but still implementing a workable consensus.
